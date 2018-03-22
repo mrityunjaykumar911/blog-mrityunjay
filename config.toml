@@ -1,0 +1,11 @@
+baseURL = "https://blog-mjay.firebaseapp.com/"
+languageCode = "en-us"
+title = "Mrityunjay's Blog"
+theme = "hyde"
+
+[taxonomies]
+  category = "blog"
+  tag = "nlp,machine learning,big data"
+
+[params]
+  author = "Mrityunjay Kumar"
